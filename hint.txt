@@ -1,0 +1,25 @@
+sudo apt-get update
+
+sudo apt-get install -y dotnet-sdk-8.0  # Adjust version based on requirement
+
+dotnet --version
+
+dotnet new console -o MyFirstApp
+cd MyFirstApp
+
+nano Program.cs
+
+using System;
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Welcome to C# on Ubuntu!");
+    }
+}
+
+dotnet build
+
+dotnet run
+
+
