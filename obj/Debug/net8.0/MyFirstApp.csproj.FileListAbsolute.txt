@@ -1,0 +1,14 @@
+/home/karthi/c_sharp/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/home/karthi/c_sharp/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/home/karthi/c_sharp/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/home/karthi/c_sharp/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/home/karthi/c_sharp/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/home/karthi/c_sharp/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
